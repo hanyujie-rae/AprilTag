@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "core.hpp": "c",
+        "iostream": "c",
+        "ostream": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "*.tcc": "cpp",
+        "set": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "core": "cpp"
+    }
+}
